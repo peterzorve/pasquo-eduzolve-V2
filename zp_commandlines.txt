@@ -1,0 +1,11 @@
+npm install @react-navigation/native
+
+
+
+
+
+
+npm install --save firebase @react-native-firebase/app @react-native-firebase/auth @react-native-firebase/firestore
+npm install @react-native-async-storage/async-storage
+
+expo install expo-font
